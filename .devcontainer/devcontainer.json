@@ -11,7 +11,7 @@
   "portsAttributes": {
     "4321": {
       "label": "Mona Astro site",
-      "onAutoForward": "openPreview"
+      "onAutoForward": "openBrowser"
     }
   },
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
